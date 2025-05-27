@@ -4,8 +4,6 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Example Structure](docs/IMAGES/sample_prediction.png)
-
 Predict protein 3D structures using state-of-the-art AI methods with automated quality checks.
 
 ## Features
