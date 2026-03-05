@@ -2,7 +2,6 @@
 *Advanced Multi-Method Protein Structure Prediction Pipeline*
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Predict protein 3D structures using state-of-the-art AI methods with automated quality checks.
 
